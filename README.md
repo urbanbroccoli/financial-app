@@ -1,5 +1,9 @@
 # financial-app
 
+Top Goals:
+ - Pulling transactions from institution 
+ - Poplulation the three views
+
 Todo:
 - Track Budget Trends 
   - Create an algorithm to determine trends in finiatial data
@@ -25,7 +29,6 @@ Views:
        - Stores
        - Budget categories 
        - custom categories
-       - 
     - See top number/favorite of catorgories 
     - see goals
     
